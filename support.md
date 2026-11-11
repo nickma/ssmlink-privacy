@@ -9,6 +9,10 @@ through the yellow Select Monitor connector, using a small ESP32 Bluetooth adapt
 for Subaru-powered conversions such as EJ22 swaps in VW Vanagons, and works on stock 1990s
 Legacys, Imprezas and SVXs too.
 
+## Get an adapter
+
+Ready-made adapters are coming. [Reserve one here](preorder): it's free, and nothing is charged until they're ready.
+
 ## Contact
 
 Questions, bug reports and adapter build help: **[nickma@gmail.com](mailto:nickma@gmail.com)**.
