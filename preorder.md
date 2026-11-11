@@ -29,8 +29,10 @@ SSMLink talks to Subaru engine computers from about **1990 to 1996** that have t
 Select Monitor connector, including:
 
 - Legacy, Impreza and SVX from those years
-- Subaru-powered conversions such as **EJ22 swaps in VW Vanagons**, if the swap harness kept
-  the yellow connector
+- **VW Vanagons** with a Subaru EJ22 swap
+- **Porsche kit cars** (356 Speedster and 550 Spyder replicas) with a 1990s Subaru engine
+
+For swaps and kit cars, the wiring harness must have kept the yellow connector.
 
 It doesn't use the OBD-II port found on later cars. If your car only has OBD-II, SSMLink isn't for it.
 

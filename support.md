@@ -6,7 +6,8 @@ title: SSMLink Support
 
 SSMLink reads live data and trouble codes from 1990–1996 Subaru engine computers (ECUs)
 through the yellow Select Monitor connector, using a small ESP32 Bluetooth adapter. It's made
-for Subaru-powered conversions such as EJ22 swaps in VW Vanagons, and works on stock 1990s
+for Subaru-powered conversions such as EJ22 swaps in VW Vanagons and Porsche 356/550 replica
+kit cars, and works on stock 1990s
 Legacys, Imprezas and SVXs too.
 
 ## Get an adapter
